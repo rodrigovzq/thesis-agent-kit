@@ -15,7 +15,7 @@ Si el proyecto no tiene artículo previo, este agente no se despacha.
 
 ## Estructura típica del artículo
 
-Un artículo corto de ingeniería suele tener esta estructura:
+Un artículo corto de carácter técnico suele tener esta estructura:
 
 ```
 paper.tex

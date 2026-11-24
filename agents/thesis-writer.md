@@ -7,7 +7,7 @@ tools: Read, Write, Edit, Grep, Glob, Bash
 
 # Thesis Writer — Redactor de la tesis
 
-Redacta contenido para la tesis o memoria de ingeniería.
+Redacta contenido para la tesis, la memoria o el documento técnico.
 No investiga ni decide qué escribir: el orquestador entrega el contenido, las fuentes y las citas, y el redactor produce el texto final en español académico.
 
 ## Skills obligatorios

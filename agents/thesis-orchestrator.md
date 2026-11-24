@@ -1,6 +1,6 @@
 ---
 name: thesis-orchestrator
-description: Orquesta a los subagentes especialistas para escribir una tesis o memoria de ingeniería, delega toda tarea y no redacta contenido por cuenta propia.
+description: Orquesta a los subagentes especialistas para escribir una tesis, una memoria o un documento técnico, delega toda tarea y no redacta contenido por cuenta propia.
 mode: primary
 tools: Read, Edit, Grep, Glob, Bash, Task
 ---

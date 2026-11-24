@@ -1,6 +1,6 @@
-# Perfil de escritura académica de ingeniería en español
+# Perfil de escritura técnica y académica en español
 
-> **Este perfil es genérico.** Describe un corpus de trabajos universitarios de ingeniería y sirve como punto de partida, no como retrato de un autor concreto.
+> **Este perfil es genérico.** Describe un corpus de trabajos universitarios y documentos técnicos, y sirve como punto de partida, no como retrato de un autor concreto.
 > Antes de usarlo en un documento real, reemplazar el contenido por el perfil propio. Ver la primera sección.
 
 ---
@@ -67,7 +67,7 @@ Donde el perfil y las reglas se contradigan, gana `RULES.md` y el perfil lo regi
 
 ### Patrón dominante: pasiva impersonal con «se»
 
-Es el rasgo más consistente en un corpus de ingeniería.
+Es el rasgo más consistente en un corpus técnico.
 Cero instancias de primera persona.
 
 - «Se implementó el módulo de adquisición de datos…»

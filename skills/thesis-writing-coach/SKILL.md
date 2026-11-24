@@ -1,6 +1,6 @@
 ---
 name: thesis-writing-coach
-description: Aplica las reglas de estilo y el perfil de escritura académica en español al redactar o revisar cualquier sección de una tesis o memoria de ingeniería, y detecta patrones de texto generado por IA. Se activa al escribir, revisar, editar o auditar prosa académica en español, o ante cualquier modificación de archivos .tex del documento.
+description: Aplica las reglas de estilo y el perfil de escritura académica en español al redactar o revisar cualquier sección de una tesis, una memoria o un documento académico o técnico, y detecta patrones de texto generado por IA. Se activa al escribir, revisar, editar o auditar prosa académica en español, o ante cualquier modificación de archivos .tex del documento.
 ---
 
 # Thesis Writing Coach — Entrenador de escritura académica
