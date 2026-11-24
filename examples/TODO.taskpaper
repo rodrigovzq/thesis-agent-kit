@@ -1,0 +1,47 @@
+Memoria:
+  - Cerrar el capítulo de introducción @pri(1) @pages(8-10) @agents(thesis-project-notes, thesis-writer, thesis-writing-reviewer)
+    - Reunir el problema y la motivación desde las notas del proyecto @done(2026-01-15)
+    - Redactar la sección de objetivos @done(2026-01-20)
+    - Redactar las contribuciones
+    - Pasar el gate de forma
+    - Verificar citas de la sección de trabajos relacionados
+  - Desarrollar el capítulo de estado del arte @pri(2) @pages(20-25) @agents(thesis-paper-researcher, thesis-writer, thesis-writing-reviewer)
+    - Listar las fuentes disponibles en la carpeta de referencias
+    - Armar el mapa de temas y fuentes
+    - Redactar la sección de fundamentos teóricos
+    - Redactar la comparación con trabajos previos
+    - Completar la tabla comparativa
+  - Desarrollar el capítulo de diseño e implementación @pri(2) @pages(25-30) @agents(thesis-implementation-expert, thesis-model-expert)
+    - Documentar el hardware y su justificación
+    - Documentar el pipeline de adquisición y procesamiento
+    - Documentar la arquitectura del modelo
+    - Documentar el proceso de entrenamiento y los datasets
+    - Diseñar el diagrama de bloques del sistema @agents(thesis-figure-designer, thesis-figure-reviewer)
+    - Redactar el capítulo y pasar los dos gates
+  - Desarrollar el capítulo de resultados @pri(1) @pages(15-20) @agents(thesis-implementation-expert, thesis-model-expert)
+    - Reunir las métricas medidas en el dispositivo con su condición de medición
+    - Armar la tabla de resultados por configuración
+    - Analizar la diferencia entre condiciones controladas y condiciones reales
+    - Graficar la evolución de las métricas @agents(thesis-figure-designer)
+    - Redactar el análisis y pasar los dos gates
+  - Cerrar conclusiones y trabajo futuro @pri(3) @pages(5-8) @agents(thesis-project-notes, thesis-writer)
+    - Recuperar los objetivos declarados para contrastarlos con los alcanzados
+    - Redactar las conclusiones
+    - Redactar las limitaciones
+    - Redactar el trabajo futuro
+  - Revisión global antes de la entrega @pri(1) @agents(thesis-template-checker, thesis-paper-researcher)
+    - Verificar estructura, índices y referencias cruzadas
+    - Verificar que no queden marcas [VERIFICAR]
+    - Verificar bibliografía completa y consistente
+    - Compilar sin errores ni advertencias nuevas
+
+Appendices:
+  - Instrumentación y montaje @pri(3) @pages(4-6)
+    - Documentar el montaje del prototipo
+    - Documentar el procedimiento de medición
+  - Datos complementarios @pri(3)
+    - Tablas de resultados extendidas
+
+Pendientes de decisión:
+  - Definir si se incluye un estudio de usuario @agents(thesis-orchestrator)
+  - Confirmar el alcance de las consideraciones éticas
